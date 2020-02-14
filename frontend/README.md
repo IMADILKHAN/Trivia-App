@@ -16,5 +16,8 @@ This project uses NPM to manage software dependencies. NPM Relies on the package
 npm install
 ```
 
+#### To run frontend
 
-
+```bash
+npm start
+```
