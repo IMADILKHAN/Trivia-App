@@ -10,3 +10,8 @@ Full stack trivia app, with focus on its back end, App has all the CRUD function
 * **PostgreSQL** 
 * **Flask-Migrate** 
 **React** and **Javascript** 
+
+
+![home.png](home.png)
+
+![add.png](add.png)
