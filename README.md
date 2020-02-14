@@ -12,6 +12,8 @@ Full stack trivia app, with focus on its back end, App has all the CRUD function
 **React** and **Javascript** 
 
 
+home page
 ![home.png](home.png)
 
+form to add new questions
 ![add.png](add.png)
