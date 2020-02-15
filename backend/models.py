@@ -55,10 +55,7 @@ class Question(db.Model):
       'difficulty': self.difficulty
     }
 
-'''
-Category
 
-'''
 class Category(db.Model):
   __tablename__ = 'categories'
 
