@@ -37,7 +37,7 @@ def create_app(test_config=None):
 
 
 
-  # to get all categories
+
   @app.route('/categories' , methods=['GET'])
   def get_all_categories():
       categories = {}
