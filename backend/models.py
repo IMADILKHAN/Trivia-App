@@ -56,8 +56,9 @@ class Question(db.Model):
       'category': self.category,
       'difficulty': self.difficulty
     }
-
+# =========================
 # Categories Model
+# =========================
 class Category(db.Model):
   __tablename__ = 'categories'
 
