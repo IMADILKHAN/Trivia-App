@@ -54,8 +54,10 @@ def create_app(test_config=None):
         })
 
 
-
+  #==================================   
   # endpoint to get all questions
+  #==================================
+    
   @app.route('/questions' , methods=['GET'])
   def get_questions():
       categories = {}
