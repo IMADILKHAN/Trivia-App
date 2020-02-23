@@ -75,7 +75,7 @@ def create_app(test_config=None):
             'total_questions':len(current_questions),
             'categories':categories
        })
-
+  #==================================
   # endpoint to delete specific question
   @app.route('/questions/<int:que_id>', methods=['DELETE'])
   def delete_question(que_id):
