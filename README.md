@@ -15,5 +15,5 @@ Full stack trivia app, with focus on its back end, App has all the CRUD function
 home page
 ![home.png](home.png)
 
-form to add new questions
+form to add new questions.
 ![add.png](add.png)
