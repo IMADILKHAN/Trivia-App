@@ -1,7 +1,7 @@
 
 ## Full Stack Trivia
 
-Full stack trivia app, with focus on its back end, App has all the CRUD functionality.Its based on restful routing principles . CORS is enabled on the backend. 
+Full stack trivia app, with focus on its back end, App gives the player questions according to there difficult levels and points are added or subtracted based on players answer . CORS is enabled on the backend. 
 
 ### Tech Stack
 
